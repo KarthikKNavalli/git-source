@@ -4,5 +4,7 @@ public class FirstJava {
         System.out.println("Hello github");
 
         System.out.println("New changes done");
+
+        System.out.println("New branch added");
     }
 }
